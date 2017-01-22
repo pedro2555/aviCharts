@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace AviCharts
 {
-    public partial class Form1 : Form
+    public partial class mainFrm : Form
     {
-        public Form1()
+        public mainFrm()
         {
             InitializeComponent();
         }
